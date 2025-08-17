@@ -1,15 +1,61 @@
-## Know more about me :man_technologist:
+## Hi there, I'm Ezequiel 👋
 
-- 👋 Hi, I'm @eze-godoy
- 
-- 👀 I'm interested in cloud architecture, monitoring, and automation
-  - 👾 What do I code here? Mostly IaC. A lot of Terraform. But keeping an eye on other technologies like Pulumi and Crossplane, to mention some.
-  - 🐍 Yep, also Python. In most cases, for serverless function and automation.
+### 🚀 About Me
 
-- 🌱 I'm currently learning ... well is hard to pick one. Let's say that my focus for learning now is on Blockchain.
- 
-- 💞️ I'm looking to collaborate on open source projects. I think it is time to participate in some projects with social impact. Not everything is money.
+I'm a **Principal Platform Engineer** based in **Haarlem, Netherlands** 🇳🇱, currently working at **Mercell** as Principal Platform Engineer.
 
-- 📫 How to reach me ...
-  - ＠ [My personal email](mailto:contact@ezegodoy.com)
-  - 🌐 [My website](https://ezegodoy.com)
+With **12+ years** in cloud infrastructure and platform engineering, I'm passionate about building reliable, scalable systems that empower development teams. My work focuses on **AWS architecture**, **Kubernetes orchestration**, and implementing **GitOps practices** that become organizational standards.
+
+### 💡 What I'm Working On
+
+- 🏗️ **Platform Engineering:** Building unified platforms that support 50+ developers across distributed teams
+- ☁️ **Cloud Architecture:** Designing cost-optimized AWS infrastructures (20-30% reduction track record)
+- 🎯 **Infrastructure as Code:** Deep expertise in Terraform, Terragrunt, and AWS CDK
+- 📊 **Observability:** Implementing comprehensive monitoring with Prometheus, Grafana, and ELK Stack
+- 🔄 **GitOps:** Establishing ArgoCD-based deployment practices for reliable, auditable releases
+
+### 🛠️ Tech Stack
+
+**Cloud Platforms:** AWS (10+ years) • Azure • GCP  
+**Container Orchestration:** Kubernetes • EKS • Docker • ArgoCD  
+**Infrastructure as Code:** Terraform • Terragrunt • AWS CDK • CloudFormation  
+**Languages:** Python • Bash • Go (learning)  
+**CI/CD:** GitHub Actions • GitLab CI • Azure DevOps  
+**Observability:** Prometheus • Grafana • ELK Stack • New Relic
+
+### 🎓 Certifications
+
+- **AWS Certified Security Specialty** (2024)
+- **AWS Solutions Architect Professional** (2022)
+
+### 🌱 Development Plan & Learning
+
+**Current Focus:**
+- 🦀 **Rust** - Building systems-level tools for infrastructure automation
+- 🔧 **Platform Engineering** - Exploring Backstage and building internal developer portals
+- 🏛️ **FinOps** - Implementing advanced cost optimization with Kubecost and AWS Cost Explorer APIs
+- 🇳🇱 **Dutch Language** - Progressing through A2 level for better local integration
+
+**Upcoming Projects:**
+- 📦 **Terraform Provider** - Working on a custom provider for internal tooling
+- 🤖 **GitOps Automation** - Building tools to simplify ArgoCD workflows
+- 📊 **Cost Analytics Platform** - Open-source FinOps dashboard for multi-cloud environments
+- 🔍 **Observability Tools** - Contributing to OpenTelemetry and Prometheus ecosystem
+
+### 💞️ Open to Collaborate
+
+I'm interested in contributing to open source projects, especially those focused on:
+- Platform engineering tools and frameworks
+- Cloud infrastructure automation
+- Developer experience improvements
+- Projects with social or environmental impact
+
+### 📫 Let's Connect!
+
+- ✉️ **Email:** [contact@ezegodoy.com](mailto:contact@ezegodoy.com)
+- 🌐 **Website:** [ezegodoy.com](https://ezegodoy.com)
+- 💼 **LinkedIn:** [linkedin.com/in/egodoy](https://www.linkedin.com/in/egodoyitconsultant/)
+
+---
+
+*"Building platforms that developers love to use"* 🚀
