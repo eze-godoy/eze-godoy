@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a **Principal Platform Engineer** based in **Haarlem, Netherlands** 🇳🇱, currently working at **Mercell** as Principal Platform Engineer.
+I'm a **Principal Platform Engineer** based in **Haarlem, Netherlands** 🇳🇱.
 
 With **12+ years** in cloud infrastructure and platform engineering, I'm passionate about building reliable, scalable systems that empower development teams. My work focuses on **AWS architecture**, **Kubernetes orchestration**, and implementing **GitOps practices** that become organizational standards.
 
